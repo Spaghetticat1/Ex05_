@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Ex05_.iml" filepath="$PROJECT_DIR$/.idea/Ex05_.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.qa/com.qa.iml" filepath="$PROJECT_DIR$/com.qa/com.qa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.qa.model/com.qa.model.iml" filepath="$PROJECT_DIR$/com.qa.model/com.qa.model.iml" />
     </modules>
   </component>
 </project>
